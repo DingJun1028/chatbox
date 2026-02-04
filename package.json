@@ -52,7 +52,7 @@
   },
   "devDependencies": {
     "@capacitor/assets": "^3.0.5",
-    "@capacitor/cli": "^6.0.0",
+    "@capacitor/cli": "^7.0.0",
     "@electron/notarize": "^2.0.0",
     "@electron/rebuild": "^4.0.3",
     "@emotion/babel-plugin": "^11.13.5",
@@ -130,7 +130,7 @@
     "prettier": "^2.8.8",
     "react-refresh": "^0.14.0",
     "react-test-renderer": "^18.2.0",
-    "rimraf": "^5.0.1",
+    "rimraf": "^6.1.1",
     "sass": "^1.62.1",
     "sass-loader": "^13.3.1",
     "style-loader": "^3.3.3",
